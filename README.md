@@ -5,6 +5,7 @@ _This_ is a **paragraph**
 - So is this
 1. Ordered list
 1. Ordered list
+
 `this is code formatted`
 ```javascript
 var string = 'never use var to make a variable'
